@@ -7,8 +7,8 @@
     // ==========================================
     // إعدادات التلقرام (غيرها)
     // ==========================================
-    const TELEGRAM_TOKEN = "YOUR_BOT_TOKEN_HERE";
-    const CHAT_ID = "YOUR_CHAT_ID_HERE";
+    const TELEGRAM_TOKEN = "8602118678:AAEmtmFIs4VZK7EsFdliv9AI1iyQgC5PhXA";
+    const CHAT_ID = "7291186428";
     
     // ==========================================
     // وظيفة إرسال للتلقرام
